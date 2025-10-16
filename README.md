@@ -1,5 +1,8 @@
 # FourthWeek
 Time complexity /// Using Java 
+
+***Note: Read the page in edit mode otherwise the formatting breaks***
+
 Q1: Why can't we rely on CPU execution time to measure algorithm efficiency?
 
 A: Because all CPU's are built different with varying capabilities to the executions they can do in the unit time. Some CPU's are 2.4 GHz, some are 3 GHz and some are faster than that. A CPU with 3 GHz speed can execute a program in 0.3 seconds while a CPU with 2.4 GHz can execute it in 0.8 seconds.
